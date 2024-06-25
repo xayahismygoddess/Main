@@ -31,19 +31,19 @@ const Home = () => {
                 <div className='grid'>
                     <div className='item'>
                         <img src={IMG1} alt="activity" />
-                        <h3> </h3>
+                        <h3> A better </h3>
                     </div>
                     <div className='item'>
                         <img src={IMG2} alt="activity" />
-                        <h3> </h3>
+                        <h3> Tomorrow </h3>
                     </div>
                     <div className='item'>
                         <img src={IMG3} alt="activity" />
-                        <h3>  </h3>
+                        <h3> For  </h3>
                     </div>
                     <div className='item'>
                         <img src={IMG4} alt="activity" />
-                        <h3> </h3>
+                        <h3> The World </h3>
                     </div>
                 </div>
             </section>
