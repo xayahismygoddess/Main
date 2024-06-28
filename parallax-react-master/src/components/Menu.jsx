@@ -1,10 +1,11 @@
 import React from 'react'
 
 const links = [
-    { id: 1, name: 'Map' },
-    { id: 2, name: 'About Us' },
+    { id: 1, name: 'Home' },
+    { id: 2, name: 'Map' },
     { id: 3, name: 'Coupons' },
-    { id: 4, name: 'Profile'}
+    { id: 4, name: 'Profile'},
+    { id: 5, name: 'About Us'}
 ]
 
 const Menu = ({ isOpen }) => {
